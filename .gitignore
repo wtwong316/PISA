@@ -1,0 +1,5 @@
+#ignore doc directory
+doc/
+
+#ignore data directory
+data/
